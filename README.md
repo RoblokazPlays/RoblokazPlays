@@ -7,7 +7,7 @@
      - Python
      - JavaScript
     
-    to make *Android apps, Web apps, and Windows programs.
+    to make Android apps, Web apps, and Windows programs.
 
 ## I'm working on
 
