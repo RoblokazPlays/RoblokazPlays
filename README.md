@@ -1,1 +1,1 @@
-![Banner](blob:https://mega.nz/09a9c6da-90a2-4643-88a4-09a1de0c77c4)
+![Banner](https://static.wixstatic.com/media/57a203_7c96955b9bbc43d3a83f65cd0e2afbab~mv2.png)
