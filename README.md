@@ -15,4 +15,4 @@
 
 ## You can visit my website
 
-by clicking on [this link.](roblokaz.wixsite.com/blazemessenger)
+by clicking on [this link.](https://www.roblokaz.wixsite.com/blazemessenger)
