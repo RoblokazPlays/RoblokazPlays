@@ -17,6 +17,15 @@ to make Android apps, Web apps, and Windows programs.
 
 by clicking on [this link.](https://www.roblokaz.wixsite.com/blazemessenger)
 
+## I have some social pages
+
+that you can visit.
+My [Twitter](https://www.twitter.com/NetworkGalaxies)
+Blaze Messenger's official [Twitter](https://www.twitter.com/blazemsg) profile
+Blaze Messenger's official [Instagram](https://www.instagram.com/blazemsg)
+
+My profile on Blaze Messenger is "Blaze Studio" if you want to contact me there
+
 ## If you want to stop me from pounding into dust
 
 then you can support me at my [Patreon page.](https://www.patreon.com/blazemessenger)
