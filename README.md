@@ -12,7 +12,7 @@ to make Android apps, Web apps, and Windows programs.
 ## I'm working on
 
      - Blaze Messenger, a powerful and secure messenger to connect with the people who matter most, no matter the device.
-
+   
 ## You can visit my website
 
 by clicking on [this link.](https://www.roblokaz.wixsite.com/blazemessenger)
@@ -23,7 +23,9 @@ My [Twitter](https://www.twitter.com/NetworkGalaxies)
 
 Blaze Messenger's official [Twitter](https://www.twitter.com/blazemsg) and [Instagram](https://www.instagram.com/blazemsg) profile
 
-My profile on Blaze Messenger is "Blaze Studio" if you want to contact me there
+## Install Blaze Messenger
+
+by clicking on [this link.](https://www.twitter.com/blazemsg/status/1313949830251675649)
 
 ## If you want to stop me from pounding into dust
 
