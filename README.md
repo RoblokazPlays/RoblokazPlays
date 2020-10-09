@@ -21,7 +21,9 @@ by clicking on [this link.](https://www.roblokaz.wixsite.com/blazemessenger)
 
 that you can visit.
 My [Twitter](https://www.twitter.com/NetworkGalaxies)
+
 Blaze Messenger's official [Twitter](https://www.twitter.com/blazemsg) profile
+
 Blaze Messenger's official [Instagram](https://www.instagram.com/blazemsg)
 
 My profile on Blaze Messenger is "Blaze Studio" if you want to contact me there
