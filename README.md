@@ -11,7 +11,7 @@ to make Android apps, Web apps, and Windows programs.
 
 ## I'm working on
 
-     - Blaze Messenger, a powerful and secure messenger to connect with the people who matter most.
+     - Blaze Messenger, a powerful and secure messenger to connect with the people who matter most, no matter the device.
 
 ## You can visit my website
 
