@@ -1,3 +1,17 @@
-<img src="https://camo.githubusercontent.com/89cdcf638b3b6b37968ad1d5c1dd34fa65ed5c47cd50f2b8727887f4b292a24d/68747470733a2f2f696d672e626f6f72752e6f72672f62616c7a652f2f696d616765732f312f613638333165303431613731663533643139633331323135313565663833346663316563343565362e706e67" height="100" width="100"/>
-
 # not spong bob
+
+### About me
+* I'm an Android developer, and I also like working with Java
+* I was originally born in China, but I'm living in the USA.
+* What else do I put here?
+
+### My current projects
+* Blaze Messenger
+```
+Blaze Messenger is a fun project I'm working on for people to use, and so I can learn more about Android programming.
+That's just the tip of the iceberg, there's a lot of stuff planned.
+```
+
+### Social media
+[Twitter](https://twitter.com/NetworkGalaxies)
+[Patreon](https://patreon.com/blazemessenger)
