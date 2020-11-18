@@ -13,5 +13,5 @@ That's just the tip of the iceberg, there's a lot of stuff planned.
 ```
 
 ### Social media
-[Twitter](https://twitter.com/NetworkGalaxies)
+[Twitter](https://twitter.com/NetworkGalaxies)<br />
 [Patreon](https://patreon.com/blazemessenger)
