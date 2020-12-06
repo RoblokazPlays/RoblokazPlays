@@ -8,8 +8,7 @@
 ### My current projects
 * Blaze Messenger
 ```
-Blaze Messenger is a fun project I'm working on for people to use, and so I can learn more about Android programming.
-That's just the tip of the iceberg, there's a lot of stuff planned.
+j
 ```
 
 ### Social media
