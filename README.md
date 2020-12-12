@@ -8,7 +8,7 @@
 ### My current projects
 * Blaze Messenger
 ```
-j
+i really want to quit developing this
 ```
 
 ### Social media
