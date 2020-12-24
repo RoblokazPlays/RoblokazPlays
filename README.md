@@ -8,7 +8,7 @@
 ### My current projects
 * Blaze Messenger
 ```
-i really want to quit developing this
+messaging app lol
 ```
 
 ### Social media
