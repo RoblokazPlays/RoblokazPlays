@@ -6,7 +6,7 @@
 * What else do I put here?
 
 ### My current projects
-* Blaze Messenger *private repository*
+* Blaze Messenger
 ```
 Simple messaging app. Work in progress.
 ```
