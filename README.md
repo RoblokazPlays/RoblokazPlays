@@ -13,7 +13,7 @@ Simple messaging app. Work in progress.
 ---
 * Hello World [*link*](https://github.com/RoblokazPlays/helloworld)
 ```
-Unoptimized way of printing "Hello World!" in the console. It was a fun and weird project!
+Unoptimized way of printing "Hello World!" in the console.
 ```
 
 ### Social media
