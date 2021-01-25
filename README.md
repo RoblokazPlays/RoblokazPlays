@@ -11,7 +11,7 @@ I'm a developer currently living in the USA. I like to work with Java and JavaSc
 
 ### Projects
 | Name | Description | Language | Made with |
-| --- | ----------- | -------- | ---------|
+| --- | ----------- | -------- | --------- |
 | Blaze Messenger | Simple messaging project for Android. | Java | Android Studio |
 | Hello World! [*(link)*](https://github.com/RoblokazPlays/helloworld) | Unoptimized way of printing Hello World in the console. | Java | Online Java emulators |
 
