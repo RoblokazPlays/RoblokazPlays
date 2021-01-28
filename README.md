@@ -7,7 +7,7 @@ I'm a developer currently living in the USA. I like to work with Java and JavaSc
 * Android Studio
 * Firefox
 * Visual Studio Code
-* GNU/Linux (Kubuntu to be more specific)
+* Kubuntu
 
 ### Projects
 | Name | Description | Language | Made with |
