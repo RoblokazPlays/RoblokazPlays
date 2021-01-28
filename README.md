@@ -17,5 +17,3 @@ I'm a developer currently living in the USA. I like to work with Java and JavaSc
 
 ### Social media
 [Here's all of my social media links.](https://solo.to/notspongbob)
-
-<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Del</kbd>
