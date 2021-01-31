@@ -18,9 +18,8 @@ I'm a developer currently living in the USA. I like to work with Java and JavaSc
 ### Social media
 [Here's all of my social media links.](https://solo.to/notspongbob)
 
-## More details
 <details>
-  <summary>Expand...</summary>
+  <summary>More details...</summary>
   
   ### Skills
   Listed from Beginner to Expert. *(I'm not that good)*
