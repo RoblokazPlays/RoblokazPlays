@@ -36,5 +36,10 @@ I'm a developer currently living in the USA. I like to work with Java and JavaSc
   
   ### Metrics
   ![Metrics](https://metrics.lecoq.io/RoblokazPlays?template=classic&tweets=1&tweets.limit=2&config.timezone=UTC&config.animated=true)
+  
+  ### Contact
+  If you want to get in touch with me for some reason, you can contact me here:
+  * **Twitter:** [@NetworkGalaxies](https://www.twitter.com/NetworkGalaxies)
+  * **Discord:** not spong bob#7134
     
 </details>
