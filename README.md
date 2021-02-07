@@ -13,7 +13,7 @@ I'm a developer currently living in the USA. I like to work with Java and JavaSc
 | Name | Description | Language | Made with | Status |
 | --- | ----------- | -------- | --------- | ------- |
 | Blaze Messenger | Simple messaging project for Android. | Java | Android Studio | Discontinued |
-| Hello World! [*(link)*](https://github.com/RoblokazPlays/helloworld) | Unoptimized way of printing Hello World in the console. | Java | Online Java emulators | Discontinued |
+| Hello World! [*(link)*](https://github.com/RoblokazPlays/helloworld) | Unoptimized way of printing Hello World in the console. | Java | Online emulators | Discontinued |
 | Grammar Repair Service | A mobile app made to repair grammar. | Java | Android Studio | Planning |
 
 ### Social media
