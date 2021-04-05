@@ -1,7 +1,8 @@
 # not spong bob
 
 ### About me
-I'm a developer currently living in the USA. I like to work with Java and JavaScript.</br >If you want to know me a little more personally, you can go over to my Twitter at [@NetworkGalaxies](https://www.twitter.com/networkgalaxies)
+Terrible programmer and UI designer. I'm really not that good.
+I use Twitter: [@NetworkGalaxies](https://www.twitter.com/networkgalaxies)
 
 ### Stuff I use
 * Android Studio
