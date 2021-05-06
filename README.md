@@ -8,7 +8,7 @@ I use Twitter: [@NetworkGalaxies](https://www.twitter.com/networkgalaxies)
 * Android Studio
 * Firefox
 * Visual Studio Code
-* Kubuntu
+* KDE neon
 
 ### Projects
 | Name | Description | Language | Made with | Status |
