@@ -8,7 +8,7 @@ I use Twitter: [@NetworkGalaxies](https://www.twitter.com/networkgalaxies)
 * Android Studio
 * Firefox
 * Visual Studio Code
-* KDE neon
+* openSUSE
 
 ### Projects
 | Name | Description | Language | Made with | Status |
@@ -31,6 +31,7 @@ I use Twitter: [@NetworkGalaxies](https://www.twitter.com/networkgalaxies)
   | Language | Experience | Note |
   | -------- | ---------- | ---- |
   | Kotlin   | ![Undetermined](https://dummyimage.com/20x20/a2a2a2/a2a2a2) Undetermined | I might need to learn Kotlin soon. |
+  | C++      | ![Undetermined](https://dummyimage.com/20x20/a2a2a2/a2a2a2) Undetermined | I want to learn C++ sometime. |
   | Java     | ![Beginner](https://dummyimage.com/20x20/5cd428/5cd428) Beginner | I'm kinda good at Java, but I'm still getting better. |
   | CSS      | ![Beginner](https://dummyimage.com/20x20/5cd428/5cd428) Beginner | I barely know how to use CSS. |
   | JavaScript | ![Beginner](https://dummyimage.com/20x20/5cd428/5cd428) Beginner | I've just started web development, so I'm not that good. |
